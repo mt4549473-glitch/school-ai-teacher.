@@ -1,0 +1,86 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>School AI Teacher</title>
+<style>
+body {
+  font-family: Arial, sans-serif;
+  background: #eef4ff;
+  margin: 0;
+  text-align: center;
+}
+header {
+  background: #1746a2;
+  color: white;
+  padding: 25px;
+}
+.profile {
+  background: white;
+  margin: 20px;
+  padding: 20px;
+  border-radius: 15px;
+}
+.profile img {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.card {
+  background: white;
+  margin: 12px;
+  padding: 20px;
+  border-radius: 12px;
+}
+button {
+  background: #1746a2;
+  color: white;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+}
+</style>
+</head>
+<body>
+
+<header>
+<h1>School AI Teacher</h1>
+<p>Your Smart Learning Assistant</p>
+</header>
+
+<div class="profile">
+<img src="https://via.placeholder.com/110" alt="Developer">
+<h2>Manish Thakur</h2>
+<p>App Developer</p>
+</div>
+
+<div class="card">
+<h2>📚 AI Teacher</h2>
+<p>Learn with your AI Teacher.</p>
+</div>
+
+<div class="card">
+<h2>🔬 Science Learning</h2>
+<p>Explore Science concepts.</p>
+</div>
+
+<div class="card">
+<h2>➗ Mathematics</h2>
+<p>Learn Maths easily.</p>
+</div>
+
+<div class="card">
+<h2>🌍 Social Studies</h2>
+<p>Explore our world.</p>
+</div>
+
+<div class="card">
+<h2>❤️ Health Education</h2>
+<p>Learn about health.</p>
+</div>
+
+</body>
+</html>
